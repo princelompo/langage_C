@@ -62,7 +62,6 @@ int main(){
         printf("\n");
     }
 
-    
     printf("\n");
     printf(" Fin du programme....");
     printf("\n");
