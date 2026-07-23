@@ -13,6 +13,7 @@ int *fusionner(const int *A, int size1, const int *B, int size2, int *fusionsize
     *fusionsize = size1 + size2;
     return fusionn;
 }
+
 int main() {
     int tabA[] = {90, 67, 99, 111, 44};
     int tabB[] = {12, 34, 56, 78};
